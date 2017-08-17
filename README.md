@@ -1,2 +1,2 @@
-# angeloid
-Angeloid - a distributed coroutine framework
+# Angeloid
+A distributed coroutine framework
